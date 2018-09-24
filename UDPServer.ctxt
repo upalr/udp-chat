@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=UDPServer
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sentence
+comment2.target=void\ saveChatHistory(java.lang.String)
+comment2.text=\r\n\ Save\ the\ messages\ received\ by\ the\ server\r\n\r\n\ @param\ \ sentence\ sentence\ is\ the\ data\ which\ should\ be\ save\ in\ the\ text\ file\r\n
+numComments=3
